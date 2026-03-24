@@ -4,5 +4,5 @@
  
 ## Links
 
- - [Публичная страница на GitHub Pages]([(https://github.com/oalapuper/WebWork8#)])
+ - [Публичная страница на GitHub Pages]([https://github.com/oalapuper/WebWork8#])
  
